@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    
+    <!-- NuGet Package Metadata -->
+    <PackageId>DarlingtonMbomaGreeter</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Darlington Mboma</Authors>
+    <Company>Darlington Mboma</Company>
+    <Description>A simple greeter package that sends greetings from Darlington Mboma</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/big-chulo01/MyPackage</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/big-chulo01/MyPackage</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>greeter, greeting, darlington, mboma</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+</Project>

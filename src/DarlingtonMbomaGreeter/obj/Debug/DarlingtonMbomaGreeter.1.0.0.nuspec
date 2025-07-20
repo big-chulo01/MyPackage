@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DarlingtonMbomaGreeter</id>
+    <version>1.0.0</version>
+    <authors>Darlington Mboma</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/big-chulo01/MyPackage</projectUrl>
+    <description>A simple greeter package that sends greetings from Darlington Mboma</description>
+    <tags>greeter, greeting, darlington, mboma</tags>
+    <repository type="git" url="https://github.com/big-chulo01/MyPackage" commit="0d7857aa97469ce6ea7195352fd3fe8fb48152b7" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/workspaces/MyPackage/src/DarlingtonMbomaGreeter/bin/Debug/net8.0/DarlingtonMbomaGreeter.dll" target="lib/net8.0/DarlingtonMbomaGreeter.dll" />
+  </files>
+</package>

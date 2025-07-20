@@ -1,0 +1,12 @@
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/bin/Debug/net8.0/DarlingtonMbomaGreeter.deps.json
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/bin/Debug/net8.0/DarlingtonMbomaGreeter.dll
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/bin/Debug/net8.0/DarlingtonMbomaGreeter.pdb
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/obj/Debug/net8.0/DarlingtonMbomaGreeter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/obj/Debug/net8.0/DarlingtonMbomaGreeter.AssemblyInfoInputs.cache
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/obj/Debug/net8.0/DarlingtonMbomaGreeter.AssemblyInfo.cs
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/obj/Debug/net8.0/DarlingtonMbomaGreeter.csproj.CoreCompileInputs.cache
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/obj/Debug/net8.0/DarlingtonMbomaGreeter.sourcelink.json
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/obj/Debug/net8.0/DarlingtonMbomaGreeter.dll
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/obj/Debug/net8.0/refint/DarlingtonMbomaGreeter.dll
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/obj/Debug/net8.0/DarlingtonMbomaGreeter.pdb
+/workspaces/MyPackage/src/DarlingtonMbomaGreeter/obj/Debug/net8.0/ref/DarlingtonMbomaGreeter.dll
